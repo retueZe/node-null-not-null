@@ -1,0 +1,23 @@
+{
+  "private": true,
+  "name": "null-not-null",
+  "version": "0.0.0",
+  "author": "retueze",
+  "license": "MIT",
+  "description": "This package provides operations to handle null and undefined values.",
+  "keywords": [
+    "null",
+    "undefined"
+  ],
+  "main": "dist/index.js",
+  "types": "types/index.d.ts",
+  "files": [
+    "dist/**/*.js",
+    "types/**/*.d.ts"
+  ],
+  "devDependencies": {
+    "@babel/cli": "^7.17.6",
+    "@babel/core": "^7.17.5",
+    "@babel/preset-env": "^7.16.11"
+  }
+}
