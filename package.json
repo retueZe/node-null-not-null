@@ -9,6 +9,10 @@
     "null",
     "undefined"
   ],
+  "repository": {
+    "url": "https://github.com/retueZe/node-null-not-null",
+    "type": "git"
+  },
   "main": "dist/index.js",
   "types": "types/index.d.ts",
   "files": [
