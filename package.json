@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "null-not-null",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "retueze",
   "license": "MIT",
   "description": "This package provides operations to handle null and undefined values.",
